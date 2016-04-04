@@ -59,8 +59,9 @@ mean(): Mean value
 std(): Standard deviation
 
 
-The final tidy data set dfAverage contains the following columns
 
+The final tidy data set dfAverage contains the following columns
+----------------------------------------------------------------
 activityname -- Description of the activities (SITTING, WALKING, etc.) -- Character           
 
 subjectid -- Number of the subject under experimentation -- number (1 to 30 subjects) 
