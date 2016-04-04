@@ -1,4 +1,4 @@
-README File for explaining the Assignment of Getting and Cleaning Data Course
+Assignment of Getting and Cleaning Data Course
 =============================================================================
 
 To Execute the project
