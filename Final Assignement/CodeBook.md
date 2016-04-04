@@ -19,51 +19,32 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 tBodyAcc-XYZ
-
 tGravityAcc-XYZ
-
 tBodyAccJerk-XYZ
-
 tBodyGyro-XYZ
-
 tBodyGyroJerk-XYZ
-
 tBodyAccMag
-
 tGravityAccMag
-
 tBodyAccJerkMag
-
 tBodyGyroMag
-
 tBodyGyroJerkMag
-
 fBodyAcc-XYZ
-
 fBodyAccJerk-XYZ
-
 fBodyGyro-XYZ
-
 fBodyAccMag
-
 fBodyAccJerkMag
-
 fBodyGyroMag
-
 fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
-
 mean(): Mean value
-
+------
 std(): Standard deviation
+------
 
 The final tidy data set dfAverage contains the following columns
-
 activityname -- Description of the activities (SITTING, WALKING, etc.) -- Character           
-
 subjectid -- Number of the subject under experimentation -- number (1 to 30 subjects) 
-
 (The following measures are averages given by the mean() function of the raw data coming from the Samsung S2 data. All of the elements below are numbers)
 
 tBodyAcc-mean()-X   tBodyAcc-mean()-Y tBodyAcc-mean()-Z
