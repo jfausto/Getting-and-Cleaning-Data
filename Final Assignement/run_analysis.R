@@ -19,10 +19,9 @@ library(dplyr)
 
 ## Setting-up working directory
 ## References to personal information is removed
-#wdpath <- "D:/Users/xxx/Documents/yyy/Big data/Data Science Program/3. Getting and Cleaning Data/w4"
 
+wdpath <- "D:/Users/xxx/Documents/yyy/Big data/Data Science Program/3. Getting and Cleaning Data/w4"
 
-wdpath <- "D:/Users/juatenci/Documents/Capgemini/Big data/Data Science Program/3. Getting and Cleaning Data/w4"
 setwd(wdpath)
 
 ## Data files Directory is -UCI HAR Dataset-
